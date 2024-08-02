@@ -1,0 +1,14 @@
+*{
+
+    margin: o;
+    padding: 0;
+    border:0;
+    
+}
+h1{
+    background-color: black;
+    color: azure;
+    text-transform: capitalize;
+    margin: 15px;
+    padding-left: 50px;
+}
